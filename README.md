@@ -18,6 +18,10 @@
 ## 社区开源项目聚合
 https://github.com/dotnet-cn/awesome-dotnet-cn
 
+https://github.com/dotnet-cn/communitystats
+
+https://github.com/shnug/OSSRanking
+
 ## 社交群/公众号
 Telegram电报群对于技术人员来说自然不可少，不建议在微信和QQ上学习技术，原因你们懂的，不会科学上网的程序员不是好程序员。
 
