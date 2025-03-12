@@ -8,12 +8,14 @@
 
 ## 初学者入门学习材料
 考虑到目前社区最需要的就是初学者学习站，我们将充分利用github的功能构建真正的社区。
+https://github.com/dotnet-cn/get-started-with-dotnet
 
 ## 线上直播
 待定
 
 ## 线下活动
 中国人还是需要当面聊才能亲近，所以会组织小型线下活动，将以NUG的形式在各地展开。
+
 https://www.meetup.com/shanghai-nug/ (已停止运营)
 
 ## 社区开源项目聚合
@@ -27,3 +29,4 @@ https://github.com/dotnet-cn/awesome-dotnet-cn
 Telegram电报群对于技术人员来说自然不可少，不建议在微信和QQ上学习技术，原因你们懂的，不会科学上网的程序员不是好程序员。
 
 我们首选电报Channel作为公众号，也会考虑建立微信公众号。
+
